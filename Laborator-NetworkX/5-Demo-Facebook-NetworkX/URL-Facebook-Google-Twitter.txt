@@ -1,0 +1,37 @@
+http://i.stanford.edu/~julian/pdfs/nips2012.pdf
+
+Facebook
+File Description
+facebook.tar.gz Facebook data (10 networks, anonymized)
+https://snap.stanford.edu/data/facebook.tar.gz
+
+facebook_combined.txt.gz Edges from all egonets combined
+https://snap.stanford.edu/data/facebook_combined.txt.gz
+
+readme-Ego.txt Description of files
+https://snap.stanford.edu/data/readme-Ego.txt
+
+
+Google
+https://snap.stanford.edu/data/ego-Gplus.html
+Google+ (132 networks)
+https://snap.stanford.edu/data/gplus.tar.gz
+
+Edges from all egonets combined
+https://snap.stanford.edu/data/gplus_combined.txt.gz
+
+Description of files
+https://snap.stanford.edu/data/readme-Ego.txt
+
+Twitter 
+https://snap.stanford.edu/data/ego-Twitter.html
+
+
+Twitter data (973 networks)
+https://snap.stanford.edu/data/twitter.tar.gz
+
+Edges from all egonets combined
+https://snap.stanford.edu/data/twitter_combined.txt.gz
+
+Description of files 
+https://snap.stanford.edu/data/readme-Ego.txt

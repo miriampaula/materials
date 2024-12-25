@@ -1,0 +1,34 @@
+NetworkX
+https://networkx.org/
+
+https://github.com/networkx
+
+https://github.com/networkx/networkx
+
+Examples and IPython Notebooks about NetworkX 
+https://github.com/networkx/nx-guides
+
+
+ 
+
+== Tutorial
+https://networkx.org/documentation/stable/tutorial.html
+
+===
+Examples
+https://networkx.org/documentation/stable/auto_examples/index.html
+
+https://networkx.org/documentation/stable/_downloads/07fcc19ba03226cd3d83d4e40ec44385/auto_examples_python.zip
+
+https://networkx.org/documentation/stable/_downloads/6f1e7a639e0699d6164445b55e6c116d/auto_examples_jupyter.zip
+
+
+
+Facebook
+https://snap.stanford.edu/data/ego-Facebook.html
+
+Google
+https://snap.stanford.edu/data/ego-Gplus.html
+
+Twitter
+https://snap.stanford.edu/data/ego-Twitter.html
